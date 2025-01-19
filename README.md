@@ -1,8 +1,7 @@
 <h1 align="left">Dashboard DBZ 🎯</h1>
 
-<div align="center">
-  <img height="100%" src="file:///C:/Users/miria/Desktop/Dashboard%20DBZ.png">
-</div>
+![Dashboard DBZ](https://github.com/user-attachments/assets/eb4f5d03-035a-44c3-b979-5b0838349108)
+
 
 ###
 

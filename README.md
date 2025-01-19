@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">✨ Projeto intermediário utilizando apenas Excel<br>📚 Dados fictícios<br>🎯 Objetivos: Aprender e aprimorar as ferramentas necessárias para utilizar o Excel<br>🎲 Observações: Dashboard criado apenas com Excel</p>
+<p align="left">✨ Projeto intermediário utilizando apenas Excel. A coluna A é um mini menu que irá navegar entre as planilhas escolhidas pelo usuário. Cada planilha tem seu modo de execução.<br>📚 Dados fictícios<br>🎯 Objetivos: Aprender e aprimorar as ferramentas necessárias para utilizar o Excel<br>🎲 Observações: Dashboard criado apenas com Excel</p>
 
 ###
 
